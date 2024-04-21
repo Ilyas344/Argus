@@ -8,7 +8,7 @@
         <version>3.2.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <artifactId>metrics-consumer</artifactId>
+    <artifactId>MetricsConsumer</artifactId>
     <version>0.0.1-SNAPSHOT</version>
     <name>metrics-consumer</name>
     <description>metrics-consumer</description>
