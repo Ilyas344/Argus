@@ -6,13 +6,15 @@ import java.util.List;
 
 public interface SystemHealthService {
     /**
-     *  Save metric in DB
+     * Save metric in DB
+     *
      * @param jsonString string metric
      */
     void saveMetric(String jsonString);
 
     /**
      * Get metric by id
+     *
      * @param id metric ID
      * @return metric
      */
@@ -21,6 +23,7 @@ public interface SystemHealthService {
 
     /**
      * Get all metrics
+     *
      * @return list of metrics
      */
 
